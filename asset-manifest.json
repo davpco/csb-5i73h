@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://davpco.github.io/csb-5i73h/static/js/main.8b9f3a31.chunk.js",
+    "main.js.map": "https://davpco.github.io/csb-5i73h/static/js/main.8b9f3a31.chunk.js.map",
+    "runtime-main.js": "https://davpco.github.io/csb-5i73h/static/js/runtime-main.777369e7.js",
+    "runtime-main.js.map": "https://davpco.github.io/csb-5i73h/static/js/runtime-main.777369e7.js.map",
+    "static/js/2.5f4a3377.chunk.js": "https://davpco.github.io/csb-5i73h/static/js/2.5f4a3377.chunk.js",
+    "static/js/2.5f4a3377.chunk.js.map": "https://davpco.github.io/csb-5i73h/static/js/2.5f4a3377.chunk.js.map",
+    "index.html": "https://davpco.github.io/csb-5i73h/index.html",
+    "static/js/2.5f4a3377.chunk.js.LICENSE.txt": "https://davpco.github.io/csb-5i73h/static/js/2.5f4a3377.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.777369e7.js",
+    "static/js/2.5f4a3377.chunk.js",
+    "static/js/main.8b9f3a31.chunk.js"
+  ]
+}
